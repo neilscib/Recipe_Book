@@ -3,6 +3,7 @@ Ingredients List:
 
 
 Meat:
+<<<<<<< HEAD
 
 400g coocked atlantic shell-on prawn
 1 (6 ounce) can tuna in water
@@ -13,12 +14,20 @@ Meat:
 
 Vegetables:
 
+=======
+400g coocked atlantic shell-on prawn
+1 (6 ounce) can tuna in water
+2 cups chicken broth
+
+Vegetables:
+>>>>>>> fa760f4f82e507ab865a551ff054e759cbfb1f6c
 4 little Gem lettuce
 5 tbsp tomato chutney
 2 tsp Worcestershire sauce
 lemon juice
 paprika
 4 tsp snipped chive
+<<<<<<< HEAD
 Tabasco sauce
 6 garlic cloves, crushed
 1 dash garlic salt
@@ -67,3 +76,30 @@ Mozzarella, shredded
 150ml double cream 
 2 eggs	
 1 cup milk
+=======
+Tobasco sauce
+2 -3 garlic cloves, crushed
+1 dash garlic salt
+8 ounces fresh mushrooms
+2 tablesoons onions 
+2 garlic cloves (minced)
+
+Spices:
+1/2 teaspoon salt
+1/2 teaspoon pepper
+1/4 teaspoon nutmeg
+
+
+Wheat:
+3 tablesoons flour(separated)
+
+Bread:
+
+Dairy:
+2 tablespoons butter
+1 cup light cream
+5 heaped tbsp mayonnaise
+2 tsp creamed horseradish
+8 ounces cream cheese, room temp
+1 -2 tablespoon mayonnaise
+>>>>>>> fa760f4f82e507ab865a551ff054e759cbfb1f6c
