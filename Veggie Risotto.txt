@@ -1,4 +1,8 @@
 1) In a small saucepan, bring the vegetable broth to a simmer over medium heat and keep warm.
 2) Meanwhile, heat the oil in a large, wide saucepan over medium heat until shimmering. Add the onion and garlic and season with salt and pepper. Cook, stirring with a wooden spoon, until the onion has softened, about 5 minutes.
 3) Add the rice and cook, stirring occasionally, until the kernels start to crackle, about 1 to 2 minutes. Pour a ladleful of broth over the rice and let simmer, stirring constantly, until the rice absorbs the broth and the bottom of the pot is nearly dry. Continue adding broth a little at a time, seasoning occasionally and stirring constantly, until the rice is nearly al dente, about 20 minutes.
+<<<<<<< HEAD
 4) Add the zucchini and continue to cook until the rice is tender on the outside but still has some resistance when you bite into it, about 5 minutes more. (You might not use all of the broth.) Stir in the Parmesan, taste, and season as desired. Serve with additional Parmesan.
+=======
+4) Add the zucchini and continue to cook until the rice is tender on the outside but still has some resistance when you bite into it, about 5 minutes more. (You might not use all of the broth.) Stir in the Parmesan, taste, and season as desired. Serve with additional Parmesan.
+>>>>>>> b391556f2f5a1052ad2102278399ee08bad2b896
