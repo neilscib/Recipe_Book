@@ -1,4 +1,4 @@
-Ingredients List:
+﻿Ingredients List:
 
 
 
@@ -7,6 +7,7 @@ Meat:
 400g coocked atlantic shell-on prawn
 1 (6 ounce) can tuna in water
 2 cups chicken broth
+1 fillet of beef 
 
 
 
@@ -35,9 +36,9 @@ Marinara
 
 Spices:
 3/2 teaspoon salt
-1 teaspoon pepper
+1 and 1/2 teaspoon pepper
 1/4 teaspoon nutmeg
-1 teaspoon kosher salt
+1 and 1/2 teaspoon kosher salt
 
 
 Bread:
@@ -54,3 +55,4 @@ Dairy:
 Ricotta salata, shredded
 Mozzarella, shredded
 1 cup light cream
+2 tbsp butter
