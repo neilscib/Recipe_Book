@@ -13,3 +13,11 @@ Meat;
 	1 fillet of beef 
 
 Bread;
+
+Method;
+
+Preheat the oven to 500 degrees F
+Place the beef on a sheet pan
+Spread the butter on with your hands
+Sprinkle evenly with the salt and pepper
+Roast in the oven for exactly 22 minutes 
