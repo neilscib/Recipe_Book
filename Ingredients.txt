@@ -36,29 +36,44 @@ Tabasco sauce
 6 garlic cloves, crushed
 1 dash garlic salt
 6 tomatoes 
+<<<<<<< HEAD
 2 cloves garlic 
 2 tbsp extra virgin oil 
 3 teaspoon balsamic vinegar	
+=======
+5 cloves garlic 
+3 tbsp extra virgin oil 
+1 teaspoon balsamic vinegar	
+>>>>>>> c8dc5cc2c3ea23c68f4cb1a9f4cffe94bb17706b
 7 basil leaves 
 Eggplants, 2 medium, cut into 1″ cubes
 Marinara
 8 ounces fresh mushrooms
 2 tablesoons onions 
+<<<<<<< HEAD
 1 lemon
 1 cup cold brewed coffee
 1/2 cup vegetable oil	
+=======
+1 quart low-sodium vegetable broth
+
+>>>>>>> c8dc5cc2c3ea23c68f4cb1a9f4cffe94bb17706b
 
 
 Spices:
 2 teaspoon salt
 1 and 1/2 teaspoon pepper
 1/4 teaspoon nutmeg
+<<<<<<< HEAD
 1 and 1/2 teaspoon kosher salt
 75g + 2 cups caster sugar
 2 cups all-purpose flour
 3/4 cup unsweetened cocoa
 2 teaspoons baking soda	
 1 teaspoon baking powder
+=======
+2 and 1/2 teaspoon kosher salt
+>>>>>>> c8dc5cc2c3ea23c68f4cb1a9f4cffe94bb17706b
 
 
 Bread:
@@ -76,6 +91,7 @@ Dairy:
 Ricotta salata, shredded
 Mozzarella, shredded
 1 cup light cream
+<<<<<<< HEAD
 2 tbsp, 60g butter
 150ml double cream 
 2 eggs	
@@ -118,3 +134,7 @@ Fruit:
 4 Small Bananas 
 grated chocolate
 >>>>>>> 9863b7e0a05f63291ba84bcbb5235d04ddbc63f1
+=======
+2 tbsp butter
+2 tbsp Parmesan cheese
+>>>>>>> c8dc5cc2c3ea23c68f4cb1a9f4cffe94bb17706b
