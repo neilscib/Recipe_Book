@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Vegetarian Cook Book:
 
 Starter Recipe Pear and Blue Cheese Tarts :
@@ -213,11 +213,16 @@ Method:
 
 1)In a blender, blitz the frozen banana with the cocoa powder until smooth.
 2)Eat straight away.
-=======
-Pizza & Pasta Recipe Book:
+
+			
+					Pizza & Pasta Recipe Book:
 
 Fresh Mozzarella, Basil, and Chicken Sausage Pizza
-Delicious mozzarella: check. Sausage: check. Spicy tomato sauce: check. Resistant Starch: check! Finally, even dieters can have an amazing, pizzeria-style pie at home.
+Delicious mozzarella: check.
+Sausage: check.
+Spicy tomato sauce: check.
+Resistant Starch: check! 
+Finally, even dieters can have an amazing, pizzeria-style pie at home.
 
 Ingredients: whole wheat pizza dough, olive oil, tomatoes, crushed red peppers, oregano, basil leaves, mozzarella and Italian chicken sausage.
 
@@ -259,7 +264,6 @@ shredded gouda, then the onion slices.
 4) Bake ffor 15 minutes. 
 5) Top hot pizza with cilantro, slice, and serve. 
 
->>>>>>> dcc472e... Updated the Recipe_Book.txt and Ingredients.txt with the Spaghetti Bolognese
 
 	Spaghetti Bolognese 
 
