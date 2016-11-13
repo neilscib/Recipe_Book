@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Vegetarian Cook Book:
 
 Starter Recipe Pear and Blue Cheese Tarts :
@@ -212,4 +213,103 @@ Method:
 
 1)In a blender, blitz the frozen banana with the cocoa powder until smooth.
 2)Eat straight away.
+=======
+Pizza & Pasta Recipe Book:
+
+Fresh Mozzarella, Basil, and Chicken Sausage Pizza
+Delicious mozzarella: check. Sausage: check. Spicy tomato sauce: check. Resistant Starch: check! Finally, even dieters can have an amazing, pizzeria-style pie at home.
+
+Ingredients: whole wheat pizza dough, olive oil, tomatoes, crushed red peppers, oregano, basil leaves, mozzarella and Italian chicken sausage.
+
+Calories: 360
+
+Resistant Starch: 2.2g 
+
+	BBQ Chicken Pizza
+
+Ingredients
+
+Meat;
+1 cup cooked, sliced chicken breast (about one 8-ounce breast)
+
+
+Vegetables;
+1/2 small red onion, thinly sliced
+fresh cilantro, for topping
+
+Spices;
+
+Bread;
+1/2 recipe homemade pizza crust
+
+
+Dairy;
+2/3 cup shredded mozzarella cheese
+2/3 cup shredded smoked gouda cheese
+
+Sauces;
+1/3 cup + 2 Tablespoons your favorite BBQ sauce 
+
+Method
+
+1) Prepare the pizza dough, and preheat the oven to 475F.
+2) Toss the BBQ sauce with the cooked, chopped chicken.
+3) Top the crust with the BBQ sauce, add the shredded mozzarella, then the chicken,
+shredded gouda, then the onion slices. 
+4) Bake ffor 15 minutes. 
+5) Top hot pizza with cilantro, slice, and serve. 
+
+>>>>>>> dcc472e... Updated the Recipe_Book.txt and Ingredients.txt with the Spaghetti Bolognese
+
+	Spaghetti Bolognese 
+
+Ingredients 
+
+Meat;
+400g lean beef mince
+150g chicken livers, chopped, fat and sinew removed
+
+Vegetables;
+2 tbsp oil
+1 large onion, finely chopped
+2 celery sticks, finely chopped
+2 carrots, finely chopped
+1 large bay leaves
+300ml passata
+
+Spices;
+50g pancetta cubes
+
+Wheat;
+500g pack spaghetti
+
+Bread;
+
+Dairy;
+50ml full-fat milk
+Parmesan, grated, to serve
+
+Other;
+4 tbsp tomato purée
+150ml white wine
+500ml fresh chicken stock
+
+
+Method
+
+1) Heat the oil in a large pan.
+2) Add the onion, celery and carrots witha pinch of salt.
+3) Cook for 10 minutes.
+4) Transfer to a plate using a wooden spoon. 
+5) Increase the heat and add in the pancetta, and cook for 4 minutes. 
+6) Add the mince and chicken livers, and cook for a further 5 minutes. 
+7) Return the vegetables to the pan and add the bay leave and tomato purée.
+8) Pour in the wine, add the stock and passata and bring to boil. 
+9) Reduce the heat to medium and let the sauce bubble away for 40 minutes. 
+10) Bring a large saucepan of salted water to boil before the sauce is ready. 
+11) Drop in the pasta, and cook the pasta, then drain. 
+12) To finish the sauce, stir the milk and season to taste. 
+13) Tip the pasta onto a plate and top with the Bolognese, and serve with Parmesan. 
+
+
 
